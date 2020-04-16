@@ -1,0 +1,13 @@
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.exe
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.deps.json
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.runtimeconfig.json
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.runtimeconfig.dev.json
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.dll
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\bin\Debug\netcoreapp3.1\StringsAndLanguagesApp.pdb
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.csproj.CoreCompileInputs.cache
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.AssemblyInfoInputs.cache
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.AssemblyInfo.cs
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.dll
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.pdb
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.genruntimeconfig.cache
+C:\Users\DEVCORE\source\repos\StringsAndLanguagesApp\StringsAndLanguagesApp\obj\Debug\netcoreapp3.1\StringsAndLanguagesApp.csprojAssemblyReference.cache
